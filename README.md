@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @vai6hav
-- 👀 I’m interested in Python Development | Django | Data Structures and Algorithm
-- 🌱 I’m currently learning Backend Frameworks | REST APIs
+- 👀 I’m interested in React | Python Development | Django | Data Structures and Algorithm
+- 🌱 I’m currently learning React.js | Django REST-Frameworks
 - 💞️ I’m looking to collaborate on Python Development frameworks | Frontend Frameworks 
 - 📫 You may reach me on singhvaibhav715@gmail.com | +91-9554642920 |
